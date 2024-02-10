@@ -135,4 +135,4 @@ First Of All Thank you So Much For Using My Command Handler.
 
 # Credits
 > If you consider using this Handler, make sure to credit me!
-> Example: `Bot Coded by Subham Shaw#1334, [modifier/your Name]`
+> Example: `Credits: subhamshaw_dev, [yourName]`
