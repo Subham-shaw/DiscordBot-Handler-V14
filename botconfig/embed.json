@@ -1,4 +1,4 @@
 {
-    "name": "Bot_Name_Here(./config.json)",
+    "name": "Bot_Name_Here(./botconfig/embed.json)",
     "color": "White"
 }
